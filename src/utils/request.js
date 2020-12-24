@@ -6,7 +6,7 @@ import axios from 'axios'
 //创建一个axios实例，
 //我们通过这个实例去发动请求，
 const request = axios.create({
-    baseURL:'http://ttapi.research.itcast.cn/' //请求的基础路径
+    baseURL:'http://123.57.27.103:15535/' //请求的基础路径
 })
 
 
